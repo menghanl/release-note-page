@@ -1,4 +1,4 @@
-module main
+module release-note-page
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
