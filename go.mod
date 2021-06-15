@@ -1,4 +1,4 @@
-module main
+module release-note-page
 
 go 1.14
 
