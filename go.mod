@@ -5,7 +5,7 @@ go 1.14
 require (
 	github.com/fatih/color v1.12.0 // indirect
 	github.com/gin-contrib/static v0.0.0-20180827025113-8cbcdde04781
-	github.com/gin-gonic/gin v1.7.0
+	github.com/gin-gonic/gin v1.7.7
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.1.0 // indirect
